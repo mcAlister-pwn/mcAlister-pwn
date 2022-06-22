@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...cybersecurity analyst
 - 🌱 I’m currently learning ...ethical hacking, programming in python
 - 💞️ I’m looking to collaborate on ...different occasions concerning cybersecurity 
-- 📫 How to reach me ...
+- 📫 How to reach me ...gmail= allymcalister854@gmail.com
+- 
 
 <!---
 mcAlister-pwn/mcAlister-pwn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
